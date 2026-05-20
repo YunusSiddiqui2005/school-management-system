@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  /* Yahan hum aapki Blue aur Green theme set kar rahe hain */
+  --color-primary: #1e3a8a;   /* Dark Blue */
+  --color-secondary: #0f766e; /* Green/Teal */
+}
